@@ -1,3 +1,3 @@
 ## Weather app with a api
-#Gitpages URL
+# Gitpages URL
 https://adakai.github.io/weather-app/
